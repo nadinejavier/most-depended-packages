@@ -18,5 +18,5 @@ async function downloadPackages (count, callback) {
   }); 
 }
 
-downloadPackages(4);
+downloadPackages(3);
 
